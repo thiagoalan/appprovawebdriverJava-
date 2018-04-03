@@ -32,5 +32,7 @@ After code change : public String CaminhoEvidencia = "C:\\{your_path}\\Acesso_Po
 ## Fourth step
 - You have all tests cases in "appprovawebdriverJava-\src\test\Documentacao_casos_de_Teste_v1.0.0" if you need to read them in the file "Caso_de_teste_appProva V1.0.0- SOMOS Educação.docx" 
 
+- We have some pictures of the last testing in 'appprovawebdriverJava-\src\test\Evidencias', if you want you can delete them (delete just pictures not folders!) to testing again
+
 ## Doubts? 
 My contact thiagoalan9080@gmail.com  :)
